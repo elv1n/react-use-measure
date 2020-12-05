@@ -50,6 +50,9 @@
       "email": "info@erikverweij.com"
     }
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.13",
